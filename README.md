@@ -20,3 +20,6 @@ Traceback (most recent call last):
   File "/usr/local/lib/python3.7/site-packages/ldap3/operation/search.py", line 215, in parse_filter
     raise LDAPInvalidFilterError('malformed filter')
 ldap3.core.exceptions.LDAPInvalidFilterError: malformed filter
+
+
+CN=Мишагин Кирилл Евгеньевич(MishaginKE),OU=Users,OU=PolyusDigital,OU=Krasnoyarsk,OU=Root,DC=polyus,DC=com,mos-s-dc01.polyus.com [MOS-S-DC01.polyus.com]
