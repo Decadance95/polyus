@@ -1,3 +1,5 @@
+mc: <ERROR> Failed to copy `/tmp/minio_backup/media/mobile_apps/mobile_snz/android/v0_2_10.apk`. Resource requested is unwritable, please reduce your request rate
+
 gpadmin@MOS-S-SGLVTST09:~$ pg_ldap_sync -c ~/arenadata_configs/ldap_config.yaml -vv -t
 Traceback (most recent call last):
         22: from /usr/bin/pg_ldap_sync:23:in `<main>'
